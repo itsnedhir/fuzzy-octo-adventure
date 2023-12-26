@@ -1,0 +1,11 @@
+requests
+flask
+Flask-SQLAlchemy
+mysqlclient
+mysql-connector
+gunicorn
+pydantic
+
+# testing
+pytest
+pytest-mock
